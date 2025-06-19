@@ -8,8 +8,6 @@ A Flutter-based mobile application implementing the Design of Experiments (DoE) 
 
 - **Flutter** – UI toolkit for cross-platform mobile development
 - **Dart** – Programming language
-- **Riverpod / Provider** (optional) – State management
-- **OpenCV** (optional) – Image processing for future visual inspections
 
 ---
 
