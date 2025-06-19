@@ -4,6 +4,21 @@ A Flutter-based mobile application implementing the Design of Experiments (DoE) 
 
 ---
 
+---
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="screenshots/0.png" alt="Manual Page" width="250"/>
+  <img src="screenshots/1.png" alt="Input Page" width="250"/>
+  <img src="screenshots/2.png" alt="Calculate Page" width="250"/>
+  <img src="screenshots/3.png" alt="Result Page" width="250"/>
+    <img src="screenshots/4.png" alt="Calculate Page" width="250"/>
+  <img src="screenshots/5.png" alt="Result Page" width="250"/>
+</div>
+
+---
+
 ## 📱 Built With
 
 - **Flutter** – UI toolkit for cross-platform mobile development
@@ -127,20 +142,7 @@ final Ca    = brain.getCoarseAggregateContent();
 final ratio = brain.getCementRatio();
 ```
 
----
 
-## 📸 Screenshots
-
-<div align="center">
-  <img src="screenshots/0.png" alt="Manual Page" width="250"/>
-  <img src="screenshots/1.png" alt="Input Page" width="250"/>
-  <img src="screenshots/2.png" alt="Calculate Page" width="250"/>
-  <img src="screenshots/3.png" alt="Result Page" width="250"/>
-    <img src="screenshots/4.png" alt="Calculate Page" width="250"/>
-  <img src="screenshots/5.png" alt="Result Page" width="250"/>
-</div>
-
----
 
 ## 👨‍💻 Contributing
 
